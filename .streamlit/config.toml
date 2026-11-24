@@ -1,0 +1,10 @@
+[theme]
+base = "dark"
+primaryColor = "#32C8B2"
+backgroundColor = "#07182C"
+secondaryBackgroundColor = "#102943"
+textColor = "#E8F2FF"
+linkColor = "#74D7E8"
+borderColor = "#294762"
+baseRadius = "0.5rem"
+showWidgetBorder = true
